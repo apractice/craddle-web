@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  dob: 2015-01-31 18:38:28
+  edd: 2015-01-31 18:38:28
+  doctorname: MyString
+  city: MyString
+  pincode: 1
+
+two:
+  name: MyString
+  dob: 2015-01-31 18:38:28
+  edd: 2015-01-31 18:38:28
+  doctorname: MyString
+  city: MyString
+  pincode: 1
