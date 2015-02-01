@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.7'
 gem 'pg'
 gem 'rb-inotify'
+gem 'rails_12factor'
 # Use SCSS for stylesheets
 gem "therubyracer"
 gem "less-rails"
