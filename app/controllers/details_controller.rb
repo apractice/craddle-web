@@ -8,6 +8,10 @@ class DetailsController < ApplicationController
     respond_with(@details)
   end
 
+
+  def dashboard
+  end
+
   def show
     respond_with(@detail)
   end
