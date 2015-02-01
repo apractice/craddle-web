@@ -573,6 +573,8 @@ iframe {
 <body>
     <!-- ******HEADER****** -->
     <div class="header">
+    <%= link_to('Logout', destroy_user_session_path, :method => :delete) %>
+
         <div class="container">
             <%= image_tag "mother.jpeg", class: "profile-image img-responsive pull-left" %>
             <!-- <img class="profile-image img-responsive pull-left" src="mother.jpeg" /> -->
